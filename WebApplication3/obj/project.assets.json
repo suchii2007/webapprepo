@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sacagrawal\\source\\repos\\WebApplication3\\WebApplication3.csproj",
+      "projectUniqueName": "C:\\Users\\sacagrawal\\Source\\Repos\\suchii2007\\webapprepo\\WebApplication3\\WebApplication3.csproj",
       "projectName": "WebApplication3",
-      "projectPath": "C:\\Users\\sacagrawal\\source\\repos\\WebApplication3\\WebApplication3.csproj",
+      "projectPath": "C:\\Users\\sacagrawal\\Source\\Repos\\suchii2007\\webapprepo\\WebApplication3\\WebApplication3.csproj",
       "packagesPath": "C:\\Users\\sacagrawal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sacagrawal\\source\\repos\\WebApplication3\\obj\\",
+      "outputPath": "C:\\Users\\sacagrawal\\Source\\Repos\\suchii2007\\webapprepo\\WebApplication3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sacagrawal\\AppData\\Roaming\\NuGet\\NuGet.Config",
